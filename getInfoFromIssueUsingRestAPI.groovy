@@ -1,17 +1,7 @@
 import com.atlassian.jira.component.ComponentAccessor
 import groovyx.net.http.HTTPBuilder
 import groovyx.net.http.Method
-
 import org.apache.log4j.Logger
-
-//import org.apache.http.client.HttpClient
-//import org.apache.http.HttpRequest
-//import org.apache.http.HttpRequestInterceptor
-//import net.sf.json.JSONArray
-//import groovyx.net.http.RESTClient
-//import org.apache.http.protocol.HttpContext;
-//import groovy.json.*
-//import groovy.json.internal.LazyMap
 
 Logger log = Logger.getLogger("com.acme.Task.Log_Sonucu:")
 
